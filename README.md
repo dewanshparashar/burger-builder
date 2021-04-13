@@ -2,10 +2,19 @@
 
 ## [Legacy] ReactJs class-based
 
-This simple web-app was created to brush up old (pre-v16) Class-based components and API's concepts of ReactJs.
-Special thanks to Maximilian Schwarzmüller(instructor) from whom I learnt React(Complete course) which is available on Udemy.
+This simple 3 page web-app was created to brush up old (pre-v16) Class-based components and API's concepts of ReactJs.
+
+<p>Special thanks to Maximilian Schwarzmüller(instructor) from whom I learnt React(Complete course) which is available on Udemy.</p>
+
 
 ## Features
+
+<p align="center">
+  <img src="src/assets/BB1.png" height="300" title="Burger Builder" alt="Burger Builder">
+  <img src="src/assets/BB2.png" height="300" title="Burger Builder" alt="Burger Builder">
+  <img src="src/assets/BB3.png" height="300" title="Burger Builder" alt="Burger Builder">
+  <img src="src/assets/BB4.png" height="300" title="Burger Builder" alt="Burger Builder">
+</p>
 
 - WYSIWYG editor of burger - Adding/Subtracting ingredients with visualization.
 - Checkout and communicating with backend (Firebase) upon Order completion.
@@ -17,5 +26,4 @@ Special thanks to Maximilian Schwarzmüller(instructor) from whom I learnt React
 - Modules created - Presntational components (UI-Modals/Backdrop/Logo, Burger, Navigation, Orders) and Container components (Orders, Builder, Checkout)
 
 ## License
-
 MIT
