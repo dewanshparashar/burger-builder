@@ -1,8 +1,9 @@
 # Burger Creator App 1.0
 
-## [Legacy] ReactJs class-based
+## [Legacy] ReactJs class-based + Capacitor (Native - Android)
 
 This simple 3 page web-app was created to brush up old (pre-v16) Class-based components and API's concepts of ReactJs.
+Also converted this web application into a native andriod app using Capacitor: https://capacitorjs.com/
 
 <p>Special thanks to Maximilian Schwarzmüller(instructor) from whom I learnt React(Complete course) which is available on Udemy.</p>
 
